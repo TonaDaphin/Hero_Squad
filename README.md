@@ -16,7 +16,7 @@ Clone the repository to your local machine from the
 
 -JAVA
 -HTML
--CSS.
+-CSS
 
 ## Copyright & License
 
