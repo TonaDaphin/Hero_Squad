@@ -15,7 +15,7 @@ Clone the repository to your local machine from the
 ## Built With
 
 -JAVA
--HTML.
+-HTML
 -CSS
 
 ## Copyright & License
